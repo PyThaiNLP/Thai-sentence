@@ -2,6 +2,8 @@
 
 Thai sentence
 
+I created this information myself.
+
 Data by [Wannaphong Phatthiyaphaibun](https://www.facebook.com/tontanwannaphong).
 
 E-mail : wannaphong@kkumail.com
