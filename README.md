@@ -1,5 +1,7 @@
 # Thai Sentence
 
+> Note: This dataset was included in Common Voice corpus. (Thai subset)
+
 Thai sentence
 
 I created this information myself.
